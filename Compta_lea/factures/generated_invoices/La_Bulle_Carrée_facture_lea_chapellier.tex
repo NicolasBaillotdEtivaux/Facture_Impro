@@ -1,0 +1,78 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{eurosym}
+\usepackage[colorlinks]{hyperref}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in]{geometry} % Document margins
+\usepackage{graphicx}
+\usepackage{tabularx}
+\usepackage{multirow}
+\usepackage{ragged2e}
+\usepackage{hhline}
+\usepackage{array}
+\usepackage[francais]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+
+\hypersetup{urlcolor=blue}
+\newcolumntype{R}[1]{>{\raggedleft\let\newline\\\arraybackslash\hspace{0pt}}m{#1}}
+
+\begin{document}
+\thispagestyle{empty}
+% Header, for company, invoice info
+\begin{tabularx}{\textwidth}{l X l}
+\hspace{-8pt} \multirow{5}{*}{\includegraphics[height=1.98cm]{../logo.png}} & \Large{\textbf{Léa Chapellier}} & \hskip12pt\multirow{5}{*}{\begin{tabular}{r} \footnotesize\bf DATE \\[-0.8ex] \footnotesize \MakeUppercase{\today} \\ \end{tabular}}\hspace{-6pt} \\
+& \bf{Formatrice en Théâtre improvisé}& \\
+& 16 rue Roubichou, 31500 Toulouse & \\
+& 07 55 62 82 85 & \\
+& \href{lea.chapellier@outlook.com} & \\
+& SIRET: 524 195 914 00030 & \\
+\end{tabularx} 
+
+\vspace{1 cm}
+
+Facture adressée à: \\
+
+\vspace{0.1cm}
+
+\textbf{La Bulle Carrée}\\
+
+Adresse: 41 avenue de Rangueil 31400 Toulouse
+
+Email: bullecarree@gmail.com
+
+No siret: 524 195 914 00030
+
+\vspace{+0.7cm}\scriptsize{TVA non applicable, art. 293 B du CGI}
+
+\begin{table}[h!]
+\begin{tabular}{c c c c c c c}
+\hline \\[0.25cm]
+\centering{\bf{Date}} & \centering{\bf{Désignation}} & \centering{\bf{Heure début}} & \centering{\bf{Heure fin}} & \centering{\bf{Tarif horaire}} & \centering{\bf{Nbr d'heure}} & \bf Prix \\
+& & & & (TTC) & & (TTC)\\[0.25cm]\hline \\
+  \\[0.25cm]
+ 21/03/2022 &  PPA ECOLE DU NORD &  9:15 &  10:15 &  35,00 \euro &  1:00 &  35,00 \euro \\[0.25cm]
+ 21/03/2022 &  COLLEGE VAUQUELIN &  12:00 &  13:00 &  30,00 \euro &  1:00 &  30,00 \euro \\[0.25cm]
+ 22/03/2022 &  COLLEGE LA PRAIRIE &  16:00 &  17:00 &  30,00 \euro &  1:00 &  30,00 \euro \\[0.25cm]
+ 25/03/2022 &  PPA ECOLE DU NORD &  9:15 &  10:15 &  35,00 \euro &  1:00 &  35,00 \euro \\[0.25cm]
+ 28/03/2022 &  PPA ECOLE DU NORD &  9:15 &  10:15 &  35,00 \euro &  1:00 &  35,00 \euro \\[0.25cm]
+ 28/03/2022 &  COLLEGE VAUQUELIN &  12:00 &  13:00 &  30,00 \euro &  1:00 &  30,00 \euro \\[0.25cm]
+ 29/03/2022 &  COLLEGE LA PRAIRIE &  16:00 &  17:00 &  30,00 \euro &  1:00 &  30,00 \euro \\[0.25cm]
+ 02/02/2022 &  PPA - ERREUR & -- & -- & -- & 45,00 & 45,00 \euro \\[0.25cm]
+  \\[0.25cm]
+\hline \\
+& & & & & \bf{Total TTC:} & \bf{270,00 € \euro }
+\end{tabular}
+\end{table}
+
+\normalsize
+à régler par virement bancaire à:\\
+
+
+Léa Chapellier\\
+
+FR76 4061 8803 5600 0408 6807 759\\
+
+BOUS FRPP XXX\\
+
+40618 80356 00040868077 59
+\end{document}

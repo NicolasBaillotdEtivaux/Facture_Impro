@@ -1,0 +1,11 @@
+1- recuperer les data depuis le calendar ?
+2- éditeur de facture pré-rempli avec latex
+3- tableur à remplir avec les tarifs par type de presta
+4-
+
+#!usr/bin/env python3
+
+chmod +x
+
+
+.local/share/applications -> 

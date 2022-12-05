@@ -1,0 +1,68 @@
+Nom: Black Stories
+Adresse: 5 rue Montmorency, APT 13, 31200 Toulouse
+Email: blackstoriesimpro@gmail.com
+Siret: 847 630 621 00013
+Date	Désignation	heure de debut	heure de fin	Prix horaire	NBR H	PRIX
+16/03/2022	8-11 ANS	14:00	15:00	31,00 €	1:00	31,00 €
+23/03/2022	8-11 ANS	14:00	15:00	31,00 €	1:00	31,00 €
+30/03/2022	8-11 ANS	15:00	16:00	31,00 €	1:00	31,00 €
+TOTAL: 93,00 €
+
+
+Nom: Melting Pot
+Adresse: 25 rue de Nice, 31400 Toulouse
+Email: associationmeltingpot@gmail.com
+Siret: 805 333 333 00013
+Date	Désignation	heure de debut	heure de fin	Prix horaire	NBR H	PRIX
+21/03/2022	INTERMEDIAIRE	20:15	22:15	40,00 €	2:00	80,00 €
+23/03/2022	PLC COLLEGE BELLEVUE	11:00	12:00	40,00 €	1:00	40,00 €
+24/03/2022	AIRBUS	12:15	13:45	35,00 €	1:30	52,50 €
+24/03/2022	ASEI COLOMIER	14:30	16:00	40,00 €	1:30	60,00 €
+24/03/2022	AVANCE	20:15	22:15	40,00 €	2:00	80,00 €
+28/03/2022	COLLEGE FERMAT	14:15	15:45	40,00 €	1:30	60,00 €
+28/03/2022	INTERMEDIAIRE	20:15	22:15	40,00 €	2:00	80,00 €
+30/03/2022	PLC COLLEGE BELLEVUE	11:00	12:00	40,00 €	1:00	40,00 €
+31/03/2022	AIRBUS	12:15	13:45	35,00 €	1:30	52,50 €
+31/03/2022	ASEI COLOMIER	14:30	16:00	40,00 €	1:30	60,00 €
+31/03/2022	AVANCE	20:15	22:15	40,00 €	2:00	80,00 €
+TOTAL: 685,00 €
+
+
+Nom: La Ludi
+Adresse: 118 route de Narbonne 31062 Toulouse cedex 9
+Email: luditoulouse@gmail.com
+Siret: 
+Date	Désignation	heure de debut	heure de fin	Prix horaire	NBR H	PRIX
+30/03/2022	LUDI	20:00	23:00	35,00 €	3:00	105,00 €
+TOTAL: 105,00 €
+
+
+Nom: Association FJEP
+Adresse: 17 Gd Rue 31450 Montgiscard        
+Email: fjep-montgiscard@laposte.net
+Siret: 321 289 456 00014
+Date	Désignation	heure de debut	heure de fin	Prix horaire	NBR H	PRIX
+8/03/2022	ENFANTS	18:00	19:30	35,00 €	1:30	52,50 €
+8/03/2022	ADULTES	20:00	22:00	35,00 €	2:00	70,00 €
+15/03/2022	ENFANTS	18:00	19:30	35,00 €	1:30	52,50 €
+15/03/2022	ADULTES	20:00	22:00	35,00 €	2:00	70,00 €
+22/03/2022	ENFANTS	18:00	19:30	35,00 €	1:30	52,50 €
+22/03/2022	ADULTES	20:00	22:00	35,00 €	2:00	70,00 €
+29/03/2022	ENFANTS	18:00	19:30	35,00 €	1:30	52,50 €
+29/03/2022	ADULTES	20:00	22:00	35,00 €	2:00	70,00 €
+TOTAL: 490,00 €
+
+
+Nom: La Bulle Carrée
+Adresse: 41 avenue de Rangueil 31400 Toulouse
+Email: bullecarree@gmail.com
+Siret: 524 195 914 00030
+Date	Désignation	heure de debut	heure de fin	Prix horaire	NBR H	PRIX
+21/03/2022	PPA ECOLE DU NORD	9:15	10:15	30,00 €	1:00	30,00 €
+21/03/2022	COLLEGE VAUQUELIN	12:00	13:00	30,00 €	1:00	30,00 €
+22/03/2022	COLLEGE LA PRAIRIE	16:00	17:00	30,00 €	1:00	30,00 €
+25/03/2022	PPA ECOLE DU NORD	9:15	10:15	30,00 €	1:00	30,00 €
+28/03/2022	PPA ECOLE DU NORD	9:15	10:15	30,00 €	1:00	30,00 €
+28/03/2022	COLLEGE VAUQUELIN	12:00	13:00	30,00 €	1:00	30,00 €
+29/03/2022	COLLEGE LA PRAIRIE	16:00	17:00	30,00 €	1:00	30,00 €
+TOTAL: 210,00 €
